@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="typing.*" />
+          <option value="main.wind_speed" />
+          <option value="main.data_row_4_3_1_days" />
+          <option value="main.data_row_8_3_1_days" />
+          <option value="main.city_combo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
